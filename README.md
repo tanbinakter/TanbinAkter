@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
 
-Skills:  Javascript / / BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:  / HTML / CSS / JS / BOOTSTRAP / REACT 
 
 </div>
 
