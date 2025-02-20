@@ -1,9 +1,9 @@
-https://github.com/tanbinakter/TanbinAkter/blob/main/code.png?raw=true
+
 <h1 align="center">Hi 👋, I'm Tanbin Akter(Tanbi)</h1>
 <h3 align="center">Programmer | Web Designer  | Speed Learner</h3>
 <h4 align="center">frontend web programmer and hablu programmer student</h4>
 
-<div align![I am Tanbin Akter(tanbi)](https://github.com/Tanbin Akter(tanbi)/Tanbin Akter(tanbi)/blob/main/code.png)
+<div align![I am Tanbin Akter(tanbi)]https://github.com/tanbinakter/TanbinAkter/blob/main/code.png?raw=true
 ="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tanbin Akter(tanbi)&color=red)
